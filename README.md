@@ -1,10 +1,8 @@
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Pushpraj Gola</h1>
 <h3 align="center">I'm a newbie but a passionate coder specializing in PYTHON</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/daxNnlh9q3AAAAAM/king-king-baldwin.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushprajgola&label=Profile%20views&color=0e75b6&style=flat" alt="pushprajgola" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushprajgola" alt="pushprajgola" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
