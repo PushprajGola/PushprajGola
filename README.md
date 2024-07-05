@@ -1,7 +1,6 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Pushpraj Gola</h1>
 <h3 align="center">I'm a newbie but a passionate coder specializing in PYTHON</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/daxNnlh9q3AAAAAM/king-king-baldwin.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
 
 
 - 🌱 I’m currently learning **Python**
