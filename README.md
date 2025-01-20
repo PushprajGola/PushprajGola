@@ -29,7 +29,7 @@ Feel free to check out my repositories, leave feedback, or collaborate! 😊
 ---
 
 ### ✨ Quote   
-_"So many books, so little time."_  
+_"UNTIL DEATH , ALL DEFEAT IS PSYCHOLOGICAL."_  
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
