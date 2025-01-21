@@ -32,7 +32,7 @@ Feel free to check out my repositories, leave feedback, or collaborate! 😊
 _"UNTIL DEATH , ALL DEFEAT IS PSYCHOLOGICAL."_  
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PushprajGola&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 
